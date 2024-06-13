@@ -4,7 +4,7 @@ Install Conda using a installer
 
 Set Up Conda using the following command on terminal:
 
-	```conda init```
+	conda init
  
 Create a virtual environment:
 
