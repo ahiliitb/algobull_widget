@@ -17,13 +17,21 @@ Activate the virtual Environment:
 Clone the github repo in the environment:
 
 	```git clone https://github.com/ahiliitb/algobull_widget.git```
+ 
 Install pip:
+
 	```conda install pip```
+ 
 Go inside the directory and install requirments.txt
+
 	```cd Algobulls_Chatbot```
+ 
 	```pip install -r requirements.txt```
+ 
 Run the streamlit file
+
 	```streamlit run scripts/cards.py --server.enableXsrfProtection false```
+ 
 
 ## In the code, we have taken the initial investment to be 150000  and the risk free rate to be 7% for all stratergies 
 
