@@ -24,7 +24,7 @@ Install pip:
  
 Go inside the directory and install requirments.txt
 
-	cd Algobulls_Chatbot
+	cd algobull_widget
  
 	pip install -r requirements.txt
  
